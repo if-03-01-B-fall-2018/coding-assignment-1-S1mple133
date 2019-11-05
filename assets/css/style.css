@@ -1,0 +1,35 @@
+#explained, #project {
+  padding-left: 51%;
+  padding-right: 0;
+}
+
+body {
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 0%, rgba(0,212,255,1) 100%);
+}
+
+.paragraph {
+  color: white;
+  text-shadow: 0.5;
+}
+
+.header {
+  color: white;
+}
+
+.section {
+  padding-right: 48%;
+  margin-bottom: 150px;
+}
+
+.examplelistimg {
+  max-width: 10%;
+  float: left;
+  position: static;
+  margin-top: 50px;
+  padding-left: 9.5%;
+  background-color: white;
+  padding-right: 9.5%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
